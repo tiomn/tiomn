@@ -1,0 +1,8 @@
+#Tue Jul 16 23:05:45 CST 2019
+eclipse.preferences.version=1
+encoding//WebRoot/index.html=UTF-8
+encoding//src/com/tiomn/action/BaseAction.java=GBK
+encoding//src/com/tiomn/action/UserAction.java=GBK
+encoding//src/com/tiomn/dao/UserDAO.java=GBK
+encoding//src/com/tiomn/entity/User.java=GBK
+encoding/<project>=UTF-8
